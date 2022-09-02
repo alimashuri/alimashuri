@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ali Mashuri
+
+Experienced Mobile Engineer, speak swift, Obj-C, kotlin, flutter.
+
 
 <!--
 **alimashuri/alimashuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
