@@ -2,6 +2,9 @@
 
 Experienced Mobile Engineer, speak swift, Obj-C, kotlin, flutter.
 
+[Resume/Portofolio](https://resume.mashuri.web.id)
+[LinkedIn](https://www.linkedin.com/in/alimashuri/)
+
 
 <!--
 **alimashuri/alimashuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
